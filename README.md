@@ -1,5 +1,5 @@
 # Project Responsive Web Design using Bootstrap
-## Name:ANDREW VARGHESE V.S Reg No:212222103001
+## Name: ANDREW VARGHESE V.S    Reg No: 212222103001
 
 ## AIM:
 To create a simplified clone of Dribbble (https://dribbble.com/) landing page.
