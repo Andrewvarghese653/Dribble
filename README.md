@@ -1,6 +1,5 @@
 # Project Responsive Web Design using Bootstrap
-## Date:10/05/2025
-## Name:JEYAPRIYA.J Reg No:212224100027
+## Name:ANDREW VARGHESE V.S Reg No:212222103001
 
 ## AIM:
 To create a simplified clone of Dribbble (https://dribbble.com/) landing page.
